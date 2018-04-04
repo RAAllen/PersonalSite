@@ -1,9 +1,25 @@
 #backgroundImage {
-  background-image: url("../images/IMG_0571.JPG");
+  background-image: url("../images/IMG_0567.JPG");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 #centerFade {
   background-image: linear-gradient(to bottom, rgba(255,255,255,0.4) 0%,rgba(255,255,255,0.4) 100%);
+}
+
+#navButton {
+  background-color: #C5CBE3;
+  color: #C5CBE3;
+}
+
+#brandName {
+  color: #C5CBE3;
+  font-size: 20pt;
+  font-weight: bold;
+  font-family: arial;
+}
+
+nav {
+  background-color: #4056A1;
 }
