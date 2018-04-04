@@ -8,18 +8,26 @@
   background-image: linear-gradient(to bottom, rgba(255,255,255,0.4) 0%,rgba(255,255,255,0.4) 100%);
 }
 
-#navButton {
-  background-color: #C5CBE3;
-  color: #C5CBE3;
+.navbar-light {
+  background-color: #242E38;
 }
 
-#brandName {
-  color: #C5CBE3;
+.navbar-light .navbar-toggler {
+  background-color: #95ABC3;
+  color: #95ABC3;
+}
+
+.navbar-light .navbar-brand {
+  color: #95ABC3;
   font-size: 20pt;
   font-weight: bold;
   font-family: arial;
 }
 
-nav {
-  background-color: #4056A1;
+.navbar-light .navbar-nav .nav-link {
+  color: #95ABC3;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  color: #95ABC3;
 }
