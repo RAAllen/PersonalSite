@@ -13,7 +13,7 @@
 
 ## Program Specifications
 
-* 
+*
 *
 *
 *
@@ -26,7 +26,7 @@ _Please contact RebeccaZarsky@gmail.com for technical questions or assistance ru
 
 ## Technologies Used
 
-_This program utilizes HTML, JavaScript, JQuery and CSS._
+_This program utilizes HTML, Bootstrap, JavaScript, JQuery and CSS._
 
 ## License
 

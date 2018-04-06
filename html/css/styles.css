@@ -4,8 +4,19 @@
   background-repeat: no-repeat;
 }
 
+#becPic {
+  background-image: url("../images/IMG_0820.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 #centerFade {
   background-image: linear-gradient(to bottom, rgba(255,255,255,0.4) 0%,rgba(255,255,255,0.4) 100%);
+}
+
+.techIcons {
+  width: 50px;
 }
 
 .navbar-light {
@@ -30,4 +41,22 @@
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
   color: #95ABC3;
+}
+
+.container-fluid {
+  text-align: justify;
+}
+
+h1 {
+  color: #95ABC3;
+  padding: 10px;
+}
+
+h5 {
+  color: #95ABC3;
+  padding: 10px;
+}
+
+h2 {
+  text-align: center;
 }
