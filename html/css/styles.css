@@ -55,3 +55,8 @@ h1 {
 h2 {
   text-align: center;
 }
+
+body {
+  font-size: 12pt;
+  font-family: arial;
+}
